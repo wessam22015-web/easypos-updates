@@ -8,6 +8,7 @@
    "months": 1,
    "support_months": 1,
    "branches": 1,
+   "edition": "offline",
    "period_ar": "شهر",
    "period_en": "month",
    "features_ar": [
@@ -22,8 +23,7 @@
     "Support and updates",
     "Cancel anytime"
    ],
-   "highlight": false,
-   "edition": "offline"
+   "highlight": false
   },
   {
    "code": "Y",
@@ -33,6 +33,7 @@
    "months": 12,
    "support_months": 12,
    "branches": 20,
+   "edition": "online",
    "period_ar": "سنة",
    "period_en": "year",
    "features_ar": [
@@ -47,8 +48,7 @@
     "Support and updates all year",
     "Save 25% vs monthly"
    ],
-   "highlight": true,
-   "edition": "online"
+   "highlight": true
   },
   {
    "code": "B",
@@ -58,6 +58,7 @@
    "months": 12,
    "support_months": 12,
    "branches": 200,
+   "edition": "online",
    "period_ar": "سنة",
    "period_en": "year",
    "features_ar": [
@@ -72,8 +73,7 @@
     "Priority support",
     "Extra device 499 SAR/year"
    ],
-   "highlight": false,
-   "edition": "online"
+   "highlight": false
   },
   {
    "code": "L",
@@ -83,6 +83,7 @@
    "months": 0,
    "support_months": 12,
    "branches": 600,
+   "edition": "online",
    "period_ar": "",
    "period_en": "",
    "features_ar": [
@@ -95,8 +96,7 @@
     "First year of support and updates free",
     "Support renewal 399 SAR/year (optional)"
    ],
-   "highlight": false,
-   "edition": "online"
+   "highlight": false
   }
  ],
  "currency": "ر.س",
