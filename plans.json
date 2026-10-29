@@ -22,7 +22,8 @@
     "Support and updates",
     "Cancel anytime"
    ],
-   "highlight": false
+   "highlight": false,
+   "edition": "offline"
   },
   {
    "code": "Y",
@@ -46,7 +47,8 @@
     "Support and updates all year",
     "Save 25% vs monthly"
    ],
-   "highlight": true
+   "highlight": true,
+   "edition": "online"
   },
   {
    "code": "B",
@@ -70,7 +72,8 @@
     "Priority support",
     "Extra device 499 SAR/year"
    ],
-   "highlight": false
+   "highlight": false,
+   "edition": "online"
   },
   {
    "code": "L",
@@ -92,10 +95,11 @@
     "First year of support and updates free",
     "Support renewal 399 SAR/year (optional)"
    ],
-   "highlight": false
+   "highlight": false,
+   "edition": "online"
   }
  ],
  "currency": "ر.س",
- "date": "2026-10-29",
- "signature": "/NvdthzEtnyQ/UYD3MC9IRKPzRk5Sl8nPjSDpoO1G27QR58WGoXFxDiKLX2sqyxCChctImW2En35z6pQEsqyCg=="
+ "date": "2026-10-30",
+ "signature": "GlHCnOu9zqmF5GXRhEfe5N5wzR6MX9hNJA4o2CEGZda8RGPAPUiJ9627pptLzIEZiRWREUG74czmK1kNG2AXBg=="
 }
