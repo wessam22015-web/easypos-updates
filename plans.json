@@ -28,7 +28,7 @@
    "code": "Y",
    "name_ar": "الباقة السنوية",
    "name_en": "Annual",
-   "price": "899",
+   "price": "3600",
    "months": 12,
    "support_months": 12,
    "branches": 20,
@@ -97,5 +97,5 @@
  ],
  "currency": "ر.س",
  "date": "2026-10-29",
- "signature": "pEgXCSqp/C/JTAMqKw+B+0MNXuyu5Xs5JLRZRfhffrNDLJO1reyXeTG+dAO1mEDLspL2YO/eU9jqxsQ/cnzMDQ=="
+ "signature": "hR+rsbKjJO9xR4e8eVAbJdeoyQz//0zjkm55lkOOzxpn7xwUWYiQwLcNTAl5Zvdl0DdJ238KOuqWBOGy9ltFCw=="
 }
