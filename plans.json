@@ -2,9 +2,9 @@
  "plans": [
   {
    "code": "M",
-   "name_ar": "الباقة الشهرية",
-   "name_en": "Monthly",
-   "price": "300",
+   "name_ar": "الأساسية — شهري",
+   "name_en": "Basic — Monthly",
+   "price": "79",
    "months": 1,
    "support_months": 1,
    "branches": 1,
@@ -12,14 +12,20 @@
    "period_ar": "شهر",
    "period_en": "month",
    "features_ar": [
-    "جهاز كاشير واحد",
-    "الربط مع منصة فاتورة",
-    "الدعم الفني والتحديثات",
+    "جهاز كاشير واحد — يعمل بدون إنترنت",
+    "نقطة بيع سريعة بالباركود والميزان",
+    "الفوترة الإلكترونية (فاتورة) المرحلة الثانية",
+    "المخزون والمشتريات والمرتجعات",
+    "الورديات والصندوق وتقارير المبيعات",
+    "دعم فني وتحديثات",
     "إلغاء في أي وقت"
    ],
    "features_en": [
-    "One cashier device",
-    "ZATCA FATOORA integration",
+    "One cashier device — works offline",
+    "Fast POS with barcode and scale",
+    "ZATCA e-invoicing (phase 2)",
+    "Inventory, purchases and returns",
+    "Shifts, cash drawer and sales reports",
     "Support and updates",
     "Cancel anytime"
    ],
@@ -27,79 +33,128 @@
   },
   {
    "code": "Y",
-   "name_ar": "الباقة السنوية",
-   "name_en": "Annual",
-   "price": "3600",
+   "name_ar": "الأساسية — سنوي",
+   "name_en": "Basic — Annual",
+   "price": "790",
    "months": 12,
    "support_months": 12,
-   "branches": 20,
-   "edition": "online",
+   "branches": 1,
+   "edition": "offline",
    "period_ar": "سنة",
    "period_en": "year",
    "features_ar": [
-    "جهاز كاشير واحد",
-    "الربط مع منصة فاتورة",
-    "الدعم الفني والتحديثات طوال السنة",
-    "توفير 25% مقارنة بالشهري"
+    "جهاز كاشير واحد — يعمل بدون إنترنت",
+    "نقطة بيع سريعة بالباركود والميزان",
+    "الفوترة الإلكترونية (فاتورة) المرحلة الثانية",
+    "المخزون والمشتريات والمرتجعات",
+    "الورديات والصندوق وتقارير المبيعات",
+    "العملاء والآجل والسندات ونقاط الولاء",
+    "دعم فني وتحديثات طوال السنة",
+    "شهران مجاناً مقارنة بالشهري"
    ],
    "features_en": [
-    "One cashier device",
-    "ZATCA FATOORA integration",
+    "One cashier device — works offline",
+    "Fast POS with barcode and scale",
+    "ZATCA e-invoicing (phase 2)",
+    "Inventory, purchases and returns",
+    "Shifts, cash drawer and sales reports",
+    "Customers, credit, vouchers and loyalty",
     "Support and updates all year",
-    "Save 25% vs monthly"
+    "Two months free vs monthly"
    ],
    "highlight": true
   },
   {
-   "code": "B",
-   "name_ar": "باقة الفروع",
-   "name_en": "Multi-branch",
-   "price": "3600",
-   "months": 12,
+   "code": "L",
+   "name_ar": "الدائمة",
+   "name_en": "Lifetime",
+   "price": "2,490",
+   "months": 0,
    "support_months": 12,
-   "branches": 200,
-   "edition": "online",
-   "period_ar": "سنة",
-   "period_en": "year",
+   "branches": 1,
+   "edition": "offline",
+   "period_ar": "",
+   "period_en": "",
    "features_ar": [
-    "حتى 3 أجهزة أو فروع",
-    "الربط مع منصة فاتورة لكل جهاز",
-    "أولوية في الدعم الفني",
-    "جهاز إضافي بـ 499 ر.س سنوياً"
+    "ترخيص دائم لجهاز واحد — يعمل بدون إنترنت",
+    "نقطة بيع سريعة بالباركود والميزان",
+    "الفوترة الإلكترونية (فاتورة) المرحلة الثانية",
+    "المخزون والمشتريات والمرتجعات",
+    "الورديات والصندوق وتقارير المبيعات",
+    "سنة دعم وتحديثات مجاناً",
+    "تجديد الدعم اختياري: 390 ر.س سنوياً"
    ],
    "features_en": [
-    "Up to 3 devices or branches",
-    "ZATCA integration for every device",
-    "Priority support",
-    "Extra device 499 SAR/year"
+    "Perpetual license for one device — works offline",
+    "Fast POS with barcode and scale",
+    "ZATCA e-invoicing (phase 2)",
+    "Inventory, purchases and returns",
+    "Shifts, cash drawer and sales reports",
+    "First year of support and updates free",
+    "Optional support renewal: 390 SAR/year"
    ],
    "highlight": false
   },
   {
-   "code": "L",
-   "name_ar": "ترخيص دائم",
-   "name_en": "Lifetime",
-   "price": "6000",
-   "months": 0,
+   "code": "B",
+   "name_ar": "الفروع",
+   "name_en": "Branches",
+   "price": "1,990",
+   "months": 12,
    "support_months": 12,
-   "branches": 600,
+   "branches": 3,
    "edition": "online",
-   "period_ar": "",
-   "period_en": "",
+   "period_ar": "سنة",
+   "period_en": "year",
    "features_ar": [
-    "ترخيص دائم لجهاز واحد",
-    "سنة دعم وتحديثات مجاناً",
-    "تجديد الدعم بـ 399 ر.س سنوياً (اختياري)"
+    "حتى 3 فروع متصلة بالفرع الرئيسي عبر الإنترنت",
+    "سيريال واحد — الفروع تُربط برمز ربط الفروع",
+    "كل فرع يبيع بدون إنترنت وتُرسل بياناته عند عودته",
+    "أصناف وأسعار موحدة وتقارير لكل الفروع",
+    "نسخة احتياطية سحابية تلقائية",
+    "الفوترة الإلكترونية (فاتورة) المرحلة الثانية",
+    "دعم فني وتحديثات طوال السنة"
    ],
    "features_en": [
-    "Perpetual license for one device",
-    "First year of support and updates free",
-    "Support renewal 399 SAR/year (optional)"
+    "Up to 3 branches linked to the main branch online",
+    "One serial — branches join with a link code",
+    "Each branch sells offline and syncs when back online",
+    "Shared products and prices, reports for all branches",
+    "Automatic cloud backup",
+    "ZATCA e-invoicing (phase 2)",
+    "Support and updates all year"
+   ],
+   "highlight": false
+  },
+  {
+   "code": "E",
+   "name_ar": "المؤسسات",
+   "name_en": "Enterprise",
+   "price": "3,990",
+   "months": 12,
+   "support_months": 12,
+   "branches": 10,
+   "edition": "online",
+   "period_ar": "سنة",
+   "period_en": "year",
+   "features_ar": [
+    "حتى 10 فروع متصلة بالفرع الرئيسي",
+    "كل مزايا باقة الفروع",
+    "أولوية في الدعم الفني",
+    "تدريب الموظفين عن بُعد",
+    "فرع إضافي: 590 ر.س سنوياً"
+   ],
+   "features_en": [
+    "Up to 10 branches linked to the main branch",
+    "Everything in Branches",
+    "Priority support",
+    "Remote staff training",
+    "Extra branch: 590 SAR/year"
    ],
    "highlight": false
   }
  ],
  "currency": "ر.س",
  "date": "2026-10-30",
- "signature": "GlHCnOu9zqmF5GXRhEfe5N5wzR6MX9hNJA4o2CEGZda8RGPAPUiJ9627pptLzIEZiRWREUG74czmK1kNG2AXBg=="
+ "signature": "RU9OVqCuQYMyjE8/XvCV1yfrLBQi0DDxU9ykKKCLUTtaqni+lHPfVfP9qmVFHFBO/HU2mf3c4MTp7Vm1xWJ1DQ=="
 }
