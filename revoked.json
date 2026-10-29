@@ -39,8 +39,12 @@
   {
    "serial_no": 1008,
    "device": "D825-9ADE-4C78-6537-17C0"
+  },
+  {
+   "serial_no": 1007,
+   "device": "D825-9ADE-4C78-6537-17C0"
   }
  ],
- "date": "2026-10-29T20:45:09+00:00",
- "signature": "7f/iIGjrwQ2kRLlVa0h5raiMoSeaT7DUA+uiGQTUGZZNPPGTgWlCPUfxyRvrZBOWOGRlgvGTxVjiQfSSnv4DCg=="
+ "date": "2026-10-29T20:45:12+00:00",
+ "signature": "bVFn8A267xuD45nvM6EmgcEw7P1mZa2RJo5WtjKeAIv2GgXGBIQarHGAXlwJQQGGg9P+G6j1Aocbn/S0Yji5DA=="
 }
