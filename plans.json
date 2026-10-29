@@ -4,7 +4,7 @@
    "code": "M",
    "name_ar": "الباقة الشهرية",
    "name_en": "Monthly",
-   "price": "99",
+   "price": "300",
    "months": 1,
    "support_months": 1,
    "branches": 1,
@@ -97,5 +97,5 @@
  ],
  "currency": "ر.س",
  "date": "2026-10-29",
- "signature": "s58S1hsEy9NyjP/rrw2e7bo6pnfUQj1y3ZI5An/SRxV3tNghnQZIaTiTj5C2CRXJvhH8JfoieeiGi8XrjBYzCQ=="
+ "signature": "pEgXCSqp/C/JTAMqKw+B+0MNXuyu5Xs5JLRZRfhffrNDLJO1reyXeTG+dAO1mEDLspL2YO/eU9jqxsQ/cnzMDQ=="
 }
