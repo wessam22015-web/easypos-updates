@@ -79,7 +79,7 @@
    "price": "2,499",
    "months": 0,
    "support_months": 12,
-   "branches": 1,
+   "branches": 600,
    "period_ar": "",
    "period_en": "",
    "features_ar": [
@@ -97,5 +97,5 @@
  ],
  "currency": "ر.س",
  "date": "2026-10-29",
- "signature": "QhrRt5RohXsOjM0ksygQdVKimXsTNlR0nsPUFMIEC1fURCQA4GB5mJsoPlix2on8JENSkA4wa9Ez1TNhNK+OCQ=="
+ "signature": "s58S1hsEy9NyjP/rrw2e7bo6pnfUQj1y3ZI5An/SRxV3tNghnQZIaTiTj5C2CRXJvhH8JfoieeiGi8XrjBYzCQ=="
 }
