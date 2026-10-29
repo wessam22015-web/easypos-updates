@@ -1,0 +1,101 @@
+{
+ "plans": [
+  {
+   "code": "M",
+   "name_ar": "الباقة الشهرية",
+   "name_en": "Monthly",
+   "price": "99",
+   "months": 1,
+   "support_months": 1,
+   "period_ar": "شهر",
+   "period_en": "month",
+   "features_ar": [
+    "جهاز كاشير واحد",
+    "الربط مع منصة فاتورة",
+    "الدعم الفني والتحديثات",
+    "إلغاء في أي وقت"
+   ],
+   "features_en": [
+    "One cashier device",
+    "ZATCA FATOORA integration",
+    "Support and updates",
+    "Cancel anytime"
+   ],
+   "branches": 1,
+   "highlight": false
+  },
+  {
+   "code": "Y",
+   "name_ar": "الباقة السنوية",
+   "name_en": "Annual",
+   "price": "899",
+   "months": 12,
+   "support_months": 12,
+   "period_ar": "سنة",
+   "period_en": "year",
+   "features_ar": [
+    "جهاز كاشير واحد",
+    "الربط مع منصة فاتورة",
+    "الدعم الفني والتحديثات طوال السنة",
+    "توفير 25% مقارنة بالشهري"
+   ],
+   "features_en": [
+    "One cashier device",
+    "ZATCA FATOORA integration",
+    "Support and updates all year",
+    "Save 25% vs monthly"
+   ],
+   "highlight": true,
+   "branches": 1
+  },
+  {
+   "code": "B",
+   "name_ar": "باقة الفروع",
+   "name_en": "Multi-branch",
+   "price": "1,999",
+   "months": 12,
+   "support_months": 12,
+   "branches": 200,
+   "period_ar": "سنة",
+   "period_en": "year",
+   "features_ar": [
+    "حتى 3 أجهزة أو فروع",
+    "الربط مع منصة فاتورة لكل جهاز",
+    "أولوية في الدعم الفني",
+    "جهاز إضافي بـ 499 ر.س سنوياً"
+   ],
+   "features_en": [
+    "Up to 3 devices or branches",
+    "ZATCA integration for every device",
+    "Priority support",
+    "Extra device 499 SAR/year"
+   ],
+   "highlight": false
+  },
+  {
+   "code": "L",
+   "name_ar": "ترخيص دائم",
+   "name_en": "Lifetime",
+   "price": "2,499",
+   "months": 0,
+   "support_months": 12,
+   "period_ar": "",
+   "period_en": "",
+   "features_ar": [
+    "ترخيص دائم لجهاز واحد",
+    "سنة دعم وتحديثات مجاناً",
+    "تجديد الدعم بـ 399 ر.س سنوياً (اختياري)"
+   ],
+   "features_en": [
+    "Perpetual license for one device",
+    "First year of support and updates free",
+    "Support renewal 399 SAR/year (optional)"
+   ],
+   "branches": 1,
+   "highlight": false
+  }
+ ],
+ "currency": "ر.س",
+ "date": "2026-10-29",
+ "signature": "AGrHpamhPLvEmEhBh3FQtgqtBViG78tx0klflas1dh/SvGXCI8SPin4vUCL6PUrBAldD4azcPel3XP5AiK9xBA=="
+}
