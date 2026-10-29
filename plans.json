@@ -7,6 +7,7 @@
    "price": "99",
    "months": 1,
    "support_months": 1,
+   "branches": 1,
    "period_ar": "شهر",
    "period_en": "month",
    "features_ar": [
@@ -21,7 +22,6 @@
     "Support and updates",
     "Cancel anytime"
    ],
-   "branches": 1,
    "highlight": false
   },
   {
@@ -31,6 +31,7 @@
    "price": "899",
    "months": 12,
    "support_months": 12,
+   "branches": 20,
    "period_ar": "سنة",
    "period_en": "year",
    "features_ar": [
@@ -45,8 +46,7 @@
     "Support and updates all year",
     "Save 25% vs monthly"
    ],
-   "highlight": true,
-   "branches": 1
+   "highlight": true
   },
   {
    "code": "B",
@@ -79,6 +79,7 @@
    "price": "2,499",
    "months": 0,
    "support_months": 12,
+   "branches": 1,
    "period_ar": "",
    "period_en": "",
    "features_ar": [
@@ -91,11 +92,10 @@
     "First year of support and updates free",
     "Support renewal 399 SAR/year (optional)"
    ],
-   "branches": 1,
    "highlight": false
   }
  ],
  "currency": "ر.س",
  "date": "2026-10-29",
- "signature": "AGrHpamhPLvEmEhBh3FQtgqtBViG78tx0klflas1dh/SvGXCI8SPin4vUCL6PUrBAldD4azcPel3XP5AiK9xBA=="
+ "signature": "QhrRt5RohXsOjM0ksygQdVKimXsTNlR0nsPUFMIEC1fURCQA4GB5mJsoPlix2on8JENSkA4wa9Ez1TNhNK+OCQ=="
 }
