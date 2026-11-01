@@ -138,7 +138,7 @@
    "period_ar": "سنة",
    "period_en": "year",
    "features_ar": [
-    "حتى 10 فروع متصلة بالفرع الرئيسي",
+    "حتى 100فروع متصلة بالفرع الرئيسي",
     "كل مزايا باقة الفروع",
     "أولوية في الدعم الفني",
     "تدريب الموظفين عن بُعد",
@@ -155,6 +155,6 @@
   }
  ],
  "currency": "ر.س",
- "date": "2026-10-30",
- "signature": "RU9OVqCuQYMyjE8/XvCV1yfrLBQi0DDxU9ykKKCLUTtaqni+lHPfVfP9qmVFHFBO/HU2mf3c4MTp7Vm1xWJ1DQ=="
+ "date": "2026-11-01",
+ "signature": "zeejxMVXz0lp3OTWC0vBkmt6zu4fiU+r8H3R4B4y4atBId+nXn5zPmm513vEtZ/nlWtlyAmL3tNBrP0eSaWQDQ=="
 }
