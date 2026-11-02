@@ -138,14 +138,14 @@
    "period_ar": "سنة",
    "period_en": "year",
    "features_ar": [
-    "حتى 10 فروع متصلة بالفرع الرئيسي",
+    "حتى 100 فروع متصلة بالفرع الرئيسي",
     "كل مزايا باقة الفروع",
     "أولوية في الدعم الفني",
     "تدريب الموظفين عن بُعد",
     "فرع إضافي: 590 ر.س سنوياً"
    ],
    "features_en": [
-    "Up to 10 branches linked to the main branch",
+    "Up to 100 branches linked to the main branch",
     "Everything in Branches",
     "Priority support",
     "Remote staff training",
@@ -156,5 +156,5 @@
  ],
  "currency": "ر.س",
  "date": "2026-11-02",
- "signature": "FqlCvvrog+PWe70mGXN7vHFud4IC6gvlhhfUV+BDpwNCswmJkM24QfIfO5XYAUIbov8jkA6LoBwl16LkJW6+BA=="
+ "signature": "NbI6t2C+pAIkACHhU5Nro8YvsKNGjZPpgGMdGFxi4rXZP4/1LWwgRiuQ5IMrY1XZkYqrV8hnIesHwvzh3bSADw=="
 }
