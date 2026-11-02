@@ -107,7 +107,7 @@
    "period_ar": "سنة",
    "period_en": "year",
    "features_ar": [
-    "حتى 20فرع متصلة بالفرع الرئيسي عبر الإنترنت",
+    "حتى 3 فروع متصلة بالفرع الرئيسي عبر الإنترنت",
     "سيريال واحد — الفروع تُربط برمز ربط الفروع",
     "كل فرع يبيع بدون إنترنت وتُرسل بياناته عند عودته",
     "أصناف وأسعار موحدة وتقارير لكل الفروع",
@@ -116,7 +116,7 @@
     "دعم فني وتحديثات طوال السنة"
    ],
    "features_en": [
-    "Up to 20 branches linked to the main branch online",
+    "Up to 3 branches linked to the main branch online",
     "One serial — branches join with a link code",
     "Each branch sells offline and syncs when back online",
     "Shared products and prices, reports for all branches",
@@ -138,14 +138,14 @@
    "period_ar": "سنة",
    "period_en": "year",
    "features_ar": [
-    "حتى 100فرع متصلة بالفرع الرئيسي",
+    "حتى 10 فروع متصلة بالفرع الرئيسي",
     "كل مزايا باقة الفروع",
     "أولوية في الدعم الفني",
     "تدريب الموظفين عن بُعد",
     "فرع إضافي: 590 ر.س سنوياً"
    ],
    "features_en": [
-    "Up to 100 branches linked to the main branch",
+    "Up to 10 branches linked to the main branch",
     "Everything in Branches",
     "Priority support",
     "Remote staff training",
@@ -155,6 +155,6 @@
   }
  ],
  "currency": "ر.س",
- "date": "2026-11-01",
- "signature": "9y9piD5TSevrd+sgvECRQZnnc2jhBBMbUhE33Rz+iSjCmBCoQ/O4APEt95NvdQ9cPH1sY2rVrZz9soZKy/3yAQ=="
+ "date": "2026-11-02",
+ "signature": "FqlCvvrog+PWe70mGXN7vHFud4IC6gvlhhfUV+BDpwNCswmJkM24QfIfO5XYAUIbov8jkA6LoBwl16LkJW6+BA=="
 }
