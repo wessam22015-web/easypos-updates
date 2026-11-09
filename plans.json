@@ -29,7 +29,25 @@
     "Support and updates",
     "Cancel anytime"
    ],
-   "highlight": false
+   "highlight": false,
+   "pages": [
+    "home",
+    "pos",
+    "sales",
+    "products",
+    "users",
+    "settings",
+    "permissions",
+    "returns",
+    "shifts",
+    "categories",
+    "stores",
+    "inventory",
+    "purchases",
+    "suppliers",
+    "reports",
+    "devices"
+   ]
   },
   {
    "code": "Y",
@@ -62,7 +80,30 @@
     "Support and updates all year",
     "Two months free vs monthly"
    ],
-   "highlight": true
+   "highlight": true,
+   "pages": [
+    "home",
+    "pos",
+    "sales",
+    "products",
+    "users",
+    "settings",
+    "permissions",
+    "returns",
+    "shifts",
+    "categories",
+    "stores",
+    "inventory",
+    "purchases",
+    "suppliers",
+    "reports",
+    "devices",
+    "customers",
+    "vouchers",
+    "offers",
+    "expenses",
+    "audit"
+   ]
   },
   {
    "code": "L",
@@ -93,7 +134,30 @@
     "First year of support and updates free",
     "Optional support renewal: 390 SAR/year"
    ],
-   "highlight": false
+   "highlight": false,
+   "pages": [
+    "home",
+    "pos",
+    "sales",
+    "products",
+    "users",
+    "settings",
+    "permissions",
+    "returns",
+    "shifts",
+    "categories",
+    "stores",
+    "inventory",
+    "purchases",
+    "suppliers",
+    "reports",
+    "devices",
+    "customers",
+    "vouchers",
+    "offers",
+    "expenses",
+    "audit"
+   ]
   },
   {
    "code": "B",
@@ -107,7 +171,7 @@
    "period_ar": "سنة",
    "period_en": "year",
    "features_ar": [
-    "حتى 20فروع متصلة بالفرع الرئيسي عبر الإنترنت",
+    "حتى 3 فروع متصلة بالفرع الرئيسي عبر الإنترنت",
     "سيريال واحد — الفروع تُربط برمز ربط الفروع",
     "كل فرع يبيع بدون إنترنت وتُرسل بياناته عند عودته",
     "أصناف وأسعار موحدة وتقارير لكل الفروع",
@@ -116,7 +180,7 @@
     "دعم فني وتحديثات طوال السنة"
    ],
    "features_en": [
-    "Up to 20 branches linked to the main branch online",
+    "Up to 3 branches linked to the main branch online",
     "One serial — branches join with a link code",
     "Each branch sells offline and syncs when back online",
     "Shared products and prices, reports for all branches",
@@ -124,7 +188,31 @@
     "ZATCA e-invoicing (phase 2)",
     "Support and updates all year"
    ],
-   "highlight": false
+   "highlight": false,
+   "pages": [
+    "home",
+    "pos",
+    "sales",
+    "products",
+    "users",
+    "settings",
+    "permissions",
+    "returns",
+    "shifts",
+    "categories",
+    "stores",
+    "inventory",
+    "purchases",
+    "suppliers",
+    "reports",
+    "customers",
+    "vouchers",
+    "offers",
+    "expenses",
+    "branches",
+    "devices",
+    "audit"
+   ]
   },
   {
    "code": "E",
@@ -138,23 +226,47 @@
    "period_ar": "سنة",
    "period_en": "year",
    "features_ar": [
-    "حتى 100 فروع متصلة بالفرع الرئيسي",
+    "حتى 10 فروع متصلة بالفرع الرئيسي",
     "كل مزايا باقة الفروع",
     "أولوية في الدعم الفني",
     "تدريب الموظفين عن بُعد",
     "فرع إضافي: 590 ر.س سنوياً"
    ],
    "features_en": [
-    "Up to 100 branches linked to the main branch",
+    "Up to 10 branches linked to the main branch",
     "Everything in Branches",
     "Priority support",
     "Remote staff training",
     "Extra branch: 590 SAR/year"
    ],
-   "highlight": false
+   "highlight": false,
+   "pages": [
+    "home",
+    "pos",
+    "sales",
+    "products",
+    "users",
+    "settings",
+    "permissions",
+    "returns",
+    "shifts",
+    "categories",
+    "stores",
+    "inventory",
+    "purchases",
+    "suppliers",
+    "reports",
+    "customers",
+    "vouchers",
+    "offers",
+    "expenses",
+    "branches",
+    "devices",
+    "audit"
+   ]
   }
  ],
  "currency": "ر.س",
- "date": "2026-11-02",
- "signature": "MKx2xyjQgGCAuJRSt06hRZdWEs/6GgxM+8JcVkO7UHxTgUDNHrxrDbRLn0bHkABVAh5xlchMuUxB+RuQF7/MCQ=="
+ "date": "2026-11-10",
+ "signature": "bXMpQskQ+k5/BYe2W4Bmb912TaewJEPjKDpYobBZXIqYwfqB4moryUCEm+9M6eBhHiP3HcooCYamj1nsKwPeDw=="
 }
