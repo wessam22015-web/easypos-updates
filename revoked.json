@@ -55,8 +55,12 @@
   {
    "serial_no": 1015,
    "device": "6C32-BB52-E08F-CFA7-87AE"
+  },
+  {
+   "serial_no": 1017,
+   "device": "6C32-BB52-E08F-CFA7-87AE"
   }
  ],
- "date": "2026-11-03T14:12:07+00:00",
- "signature": "lat5VIxZ0nB19J5KDFvIEZlHcL+ZiyV4KToKLXLQOg1l8DaduqkD57V7zXz9d7bQkaatpDUmf0R23q4YPQgUDg=="
+ "date": "2026-11-10T10:40:04+00:00",
+ "signature": "8xF01D+fG2iZFbaZyPR/TYn0ZxfLTMyc67k0vAep5tQg+0t5NpygLTg/kgUdgAd2c9dEmPERiQmmF6up/Z3+Cw=="
 }
