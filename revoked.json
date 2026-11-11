@@ -7,9 +7,10 @@
   },
   {
    "serial_no": 1019,
-   "device": "6947-D06E-67B9-7985-4518"
+   "device": "6947-D06E-67B9-7985-4518",
+   "wipe": 1
   }
  ],
- "date": "2026-11-11T16:58:47+00:00",
- "signature": "tzbvF9P1CQNgF5culyVQ/lqSK+V6sLqFy4E0G5cuk9VKGaZ3CjCtiXMuZlasRLDPTzyH7gKNxNCFHK1+BmiaDg=="
+ "date": "2026-11-11T16:58:51+00:00",
+ "signature": "dMySb2RH1EQ7t46geY06kRpZH/5SByWcxg0ff4tgxSYzywxDh+i0ZWKy5qSQtJqN1Y+tWnEi2u5cVF8auNZ1Ag=="
 }
