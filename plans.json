@@ -218,7 +218,7 @@
    "code": "E",
    "name_ar": "المؤسسات",
    "name_en": "Enterprise",
-   "price": "6000",
+   "price": "12000",
    "months": 12,
    "support_months": 12,
    "branches": 10,
@@ -268,5 +268,5 @@
  ],
  "currency": "ر.س",
  "date": "2026-11-11",
- "signature": "oWqTX35MfkZIKPhz42cDVfJPUaYKKWo9PGY57b1PGTicowVTZQNYejZXaGtX3ojSx69D7ZXSby0XZ8VnX3BLAg=="
+ "signature": "NANhblt4tSwUBRQONnELWytF2hR/zomm+qrJddgyOW3RpoJet6ljSNLaXNojICZEhA+zFlNiqJdqwwXybFikDg=="
 }
