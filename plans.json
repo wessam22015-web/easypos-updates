@@ -53,7 +53,7 @@
    "code": "Y",
    "name_ar": "الأساسية — سنوي",
    "name_en": "Basic — Annual",
-   "price": "790",
+   "price": "3600",
    "months": 12,
    "support_months": 12,
    "branches": 1,
@@ -268,5 +268,5 @@
  ],
  "currency": "ر.س",
  "date": "2026-11-11",
- "signature": "VcjgB01XtRsl4qjlTbjFRhex6dL6bauT06nqLyd3vpxJ8z+I3tV1gX0gKtpCMv/+jKsh/NtjDYugFfEuC+edAQ=="
+ "signature": "R+cgvdDk4FVGP9+2/BbWIlJqpKgj/zi5OwgURgov+BqAyStQnDoo+e2jHQBgllntYwdmv0fPtdPwmdUYPsymDg=="
 }
