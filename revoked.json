@@ -9,8 +9,12 @@
    "serial_no": 1019,
    "device": "6947-D06E-67B9-7985-4518",
    "wipe": 1
+  },
+  {
+   "serial_no": 1020,
+   "device": "6C32-BB52-E08F-CFA7-87AE"
   }
  ],
- "date": "2026-11-11T16:58:51+00:00",
- "signature": "dMySb2RH1EQ7t46geY06kRpZH/5SByWcxg0ff4tgxSYzywxDh+i0ZWKy5qSQtJqN1Y+tWnEi2u5cVF8auNZ1Ag=="
+ "date": "2026-11-11T21:01:19+00:00",
+ "signature": "46DfL0BS+XXedtheTQGFoSm+ZEhx7SAffgcsiaUjm+ZJkQmmqCo22vfFGajdL/01zGaYZHICbDzMQC+GNAXFAg=="
 }
