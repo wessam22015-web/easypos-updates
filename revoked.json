@@ -1,66 +1,11 @@
 {
  "revoked": [
   {
-   "serial_no": 1003,
-   "device": "6C32-BB52-E08F-CFA7-87AE"
-  },
-  {
-   "serial_no": 1001,
-   "device": "D825-9ADE-4C78-6573-17C0"
-  },
-  {
-   "serial_no": 1004,
-   "device": "D825-9ADE-4C78-6537-17C0"
-  },
-  {
-   "serial_no": 1005,
-   "device": "D825-9ADE-4C78-6537-17C0"
-  },
-  {
-   "serial_no": 1006,
-   "device": "D825-9ADE-4C78-6537-17C0"
-  },
-  {
-   "serial_no": 1012,
-   "device": "D825-9ADE-4C78-6573-17C0"
-  },
-  {
-   "serial_no": 1011,
-   "device": "D825-9ADE-4C78-6537-17C0"
-  },
-  {
-   "serial_no": 1010,
-   "device": "D825-9ADE-4C78-6537-17C0"
-  },
-  {
-   "serial_no": 1009,
-   "device": "D825-9ADE-4C78-6537-17C0"
-  },
-  {
-   "serial_no": 1008,
-   "device": "D825-9ADE-4C78-6537-17C0"
-  },
-  {
-   "serial_no": 1007,
-   "device": "D825-9ADE-4C78-6537-17C0"
-  },
-  {
-   "serial_no": 1014,
-   "device": "D825-9ADE-4C78-6573-17C0"
-  },
-  {
-   "serial_no": 1002,
-   "device": "6C32-BB52-E08F-CFA7-87AE"
-  },
-  {
-   "serial_no": 1015,
-   "device": "6C32-BB52-E08F-CFA7-87AE"
-  },
-  {
-   "serial_no": 1017,
-   "device": "6C32-BB52-E08F-CFA7-87AE"
+   "serial_no": 1018,
+   "device": "6C32-BB52-E08F-CFA7-87AE",
+   "wipe": 1
   }
  ],
- "date": "2026-11-10T10:40:04+00:00",
- "signature": "8xF01D+fG2iZFbaZyPR/TYn0ZxfLTMyc67k0vAep5tQg+0t5NpygLTg/kgUdgAd2c9dEmPERiQmmF6up/Z3+Cw=="
+ "date": "2026-11-11T16:56:42+00:00",
+ "signature": "lMWbQHrLsxV2iyHJJaqK93/B4ZC+7V59zlR2CWQ8ZzbsKjlLeoYTuMcicxrbDzxSY6g7WJ7NFHYEbLcvDMwyCw=="
 }
