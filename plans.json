@@ -30,6 +30,7 @@
     "Cancel anytime"
    ],
    "highlight": false,
+   "renewal": "",
    "pages": [
     "home",
     "pos",
@@ -81,6 +82,7 @@
     "Two months free vs monthly"
    ],
    "highlight": true,
+   "renewal": "",
    "pages": [
     "home",
     "pos",
@@ -135,6 +137,7 @@
     "Optional support renewal: 390 SAR/year"
    ],
    "highlight": false,
+   "renewal": "399",
    "pages": [
     "home",
     "pos",
@@ -189,6 +192,7 @@
     "Support and updates all year"
    ],
    "highlight": false,
+   "renewal": "",
    "pages": [
     "home",
     "pos",
@@ -240,6 +244,7 @@
     "Extra branch: 590 SAR/year"
    ],
    "highlight": false,
+   "renewal": "",
    "pages": [
     "home",
     "pos",
@@ -267,6 +272,6 @@
   }
  ],
  "currency": "ر.س",
- "date": "2026-11-12",
- "signature": "Llk7TGivKxTZeykWi2ZpHYsjhCQcskyNNIi/IQAc7zolL2q24ttUkn3F+F6zLk3AWHfdGI1w9P/ZuWtU2Xn6Aw=="
+ "date": "2026-11-14",
+ "signature": "kWgdVobB9AOttrsFbeUaVYVhJFisXTmEcamrJkcqXnCq34UdJhWDrtXVv4l9DH8ubszdPgzyLKp3X7V5V6RsBA=="
 }
